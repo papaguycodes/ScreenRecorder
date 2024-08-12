@@ -2,7 +2,7 @@
 <resources>
 
     <!-- Base application theme -->
-    <style name="Theme.MyApp" parent="Theme.MaterialComponents.Light.NoActionBar">
+    <style name="Theme.ScreenRecorder" parent="Theme.MaterialComponents.Light.NoActionBar">
         <!-- Customize your theme here with colors and attributes -->
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryVariant">@color/colorPrimaryVariant</item>
