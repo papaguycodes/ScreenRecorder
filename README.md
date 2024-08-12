@@ -39,7 +39,7 @@ To build and install this app locally, follow these steps:
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/PaPaGuyCodes/ScreenRecorder.git
-    cd screen-recorder-app
+    cd ScreenRecorder
     ```
 2. **Open the project in Android Studio:**
    - Launch Android Studio and select `Open an existing project`.
