@@ -1,4 +1,3 @@
-#!/bin/bash
 # Screen Recorder
 
 ### **Table of Contents**
