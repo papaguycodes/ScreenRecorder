@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme -->
+    <style name="Theme.ScreenRecorder.GitHubDark" parent="Theme.MaterialComponents.Dark.NoActionBar">
+        <!-- Customize your theme here with colors and attributes -->
+        <item name="colorPrimary">@color/githubDarkPrimary</item>
+        <item name="colorPrimaryVariant">@color/githubDarkPrimaryVariant</item>
+        <item name="colorOnPrimary">@color/githubDarkOnPrimary</item>
+        <item name="colorSecondary">@color/githubDarkSecondary</item>
+        <item name="colorSecondaryVariant">@color/githubDarkSecondaryVariant</item>
+        <item name="colorOnSecondary">@color/githubDarkOnSecondary</item>
+        <item name="colorBackground">@color/githubDarkBackground</item>
+        <item name="colorOnBackground">@color/githubDarkOnBackground</item>
+        <item name="colorSurface">@color/githubDarkSurface</item>
+        <item name="colorOnSurface">@color/githubDarkOnSurface</item>
+        <item name="colorError">@color/githubDarkError</item>
+        <item name="colorOnError">@color/githubDarkOnError</item>
+        <item name="textColor">@color/githubDarkTextColor</item>
+    </style>
+
+</resources>
